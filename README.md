@@ -1,0 +1,2 @@
+# multiplication-
+multiplication in c 
